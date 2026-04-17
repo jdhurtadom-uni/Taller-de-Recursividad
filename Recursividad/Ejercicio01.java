@@ -1,5 +1,6 @@
 /**
  * EJERCICIO 1: Calcular el factorial de un número.
+ Complejidad: O(n)
  */
 public class Ejercicio01 {
 
