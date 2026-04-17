@@ -1,5 +1,6 @@
 /**
  * EJERCICIO 3: Calcular la sumatoria 1 + 1/2 + 1/3 + ... + 1/n
+  Complejidad: O(n)
  */
 public class Ejercicio03 {
 
