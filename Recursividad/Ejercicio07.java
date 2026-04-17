@@ -15,7 +15,7 @@ public class Ejercicio07_Potencia {
         if (exponente == 0) {
             return 1;
         }
-        // Caso recursivo: Se multiplica la base por la función disminuyendo el exponente.
+        // Aplicacion de recursividad se multiplica la base por la función disminuyendo el exponente.
         return base * calcularPotencia(base, exponente - 1);
     }
 
