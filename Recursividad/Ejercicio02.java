@@ -1,5 +1,6 @@
 /**
  * EJERCICIO 2: Calcular la sumatoria hasta el número leído.
+  Complejidad: O(n)
  */
 public class Ejercicio02{
 
