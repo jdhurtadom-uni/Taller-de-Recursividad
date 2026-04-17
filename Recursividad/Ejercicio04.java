@@ -1,5 +1,6 @@
 /**
  * EJERCICIO 4: Invertir un número entero (Ej: 123 -> 321).
+  Complejidad: O(log10^n)
  */
 public class Ejercicio04 {
 
