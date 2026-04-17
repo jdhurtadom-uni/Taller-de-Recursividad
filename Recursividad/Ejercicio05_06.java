@@ -1,5 +1,6 @@
 /**
  * EJERCICIOS 5 Y 6: Sumar los dígitos de un número (Ej: 123 -> 6).
+ Complejidad: O(log10^n)
  */
 public class Ejercicio05_06 {
 
