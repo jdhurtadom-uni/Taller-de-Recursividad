@@ -1,23 +1,15 @@
-# Taller-de-Recursividad
-Este repositorio contiene la solución a 14 ejercicios de programación resueltos exclusivamente mediante recursividad en el lenguaje Java.
+# Taller de Recursividad en Java
 
-Desarrollado por: Juan Diego Hurtado Molano
-Asignatura: Estructura de datos lineales
-
+**Estudiante:** Juan Diego Hurtado Molano 
+**Descripción del taller:** Este proyecto consiste en la implementación de 14 ejercicios de lógica de programación resueltos mediante el metodo de recursividad. Este taller tiene como objetivo demostrar el uso correcto de casos base y casos recursivos
 ---
 
-## Requisitos previos
+## Instrucciones para ejecutar el programa
 
-* Java Development Kit (JDK) 8 o superior.
-* Una terminal o entorno de desarrollo (IDE) como Eclipse, IntelliJ IDEA, VS Code o NetBeans.
+Cada ejercicio es independiente y cuenta con su propio método `main`. Para ejecutar cualquier programa desde la consola, siga estos pasos:
 
-## Cómo ejecutar los códigos
-
-Cada ejercicio fue programado de manera independiente y cuenta con su propio método `main`. Para compilar y ejecutar un ejercicio desde la terminal, sigue estos pasos:
-
-1. Abre la terminal y navega hasta la carpeta del proyecto.
-2. Compila el archivo usando `javac`:
+1. Asegúrese de tener instalado el JDK (Java Development Kit) versión 8 o superior.
+2. Abra una terminal en la carpeta raíz del proyecto.
+3. Compile el archivo deseado:
    ```bash
    javac Ejercicio01_Factorial.java
-
-o el ejercicio que se desee ejecutar
